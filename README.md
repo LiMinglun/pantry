@@ -1,4 +1,4 @@
-# patry
+# Pantry
 “Pantry” helps you record food items you have purchased, as well as keep track of the expiration period for every single food item you have! You can either provide an explicit expiration date or allow “Pantry” to automatically set an expiration date based on the type of food. When you are ready to remove a food item from your fridge, tell “Pantry”! And “Pantry” will remove that item from your list of food. When you need to be reminded of what you have or what is expiring, ask “Pantry”! “Pantry” will give you exactly the reminder you need.
 
 For adding food to your pantry, you could say:
